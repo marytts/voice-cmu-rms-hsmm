@@ -4,11 +4,12 @@ voice {
     region 'US'
     gender 'male'
     type 'hsmm'
+    description 'A male US English hidden semi-Markov model voice, built from recordings provided by Carnegie Mellon University'
     samplingRate 16000
 }
 
 license {
-    name 'temporary'
-    shortName 'temporary'
-    url 'temporary'
+    name 'Arctic License'
+    shortName 'Arctic'
+    url 'http://mary.dfki.de/download/voices/arctic-license.html'
 }
