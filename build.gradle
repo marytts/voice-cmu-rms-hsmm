@@ -1,0 +1,14 @@
+voice {
+    name 'cmu-rms-hsmm'
+    language 'en'
+    region 'US'
+    gender 'male'
+    type 'hsmm'
+    samplingRate 16000
+}
+
+license {
+    name 'temporary'
+    shortName 'temporary'
+    url 'temporary'
+}
