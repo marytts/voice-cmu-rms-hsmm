@@ -1,3 +1,5 @@
+apply plugin: 'marytts-voicebuilding'
+
 voice {
     name 'cmu-rms-hsmm'
     language 'en'
