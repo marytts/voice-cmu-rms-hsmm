@@ -15,5 +15,5 @@ voice {
 license {
     name 'Arctic License'
     shortName 'Arctic'
-    url 'http://mary.dfki.de/download/voices/arctic-license.html'
+    url 'http://mary.dfki.de/download/arctic-license.html'
 }
