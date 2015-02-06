@@ -12,9 +12,3 @@ voice {
     description 'A male US English hidden semi-Markov model voice, built from recordings provided by Carnegie Mellon University'
     samplingRate 16000
 }
-
-license {
-    name 'Arctic License'
-    shortName 'Arctic'
-    url 'http://mary.dfki.de/download/arctic-license.html'
-}
