@@ -2,13 +2,3 @@ apply plugin: 'de.dfki.mary.voicebuilding'
 
 group 'de.dfki.mary'
 version '5.1.2'
-
-voice {
-    name 'cmu-rms-hsmm'
-    language 'en'
-    region 'US'
-    gender 'male'
-    type 'hsmm'
-    description 'A male US English hidden semi-Markov model voice, built from recordings provided by Carnegie Mellon University'
-    samplingRate 16000
-}
