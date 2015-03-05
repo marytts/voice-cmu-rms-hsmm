@@ -1,7 +1,9 @@
 voice {
     name = 'cmu-rms-hsmm'
-    language = 'en'
-    region = 'US'
+    locale {
+        language = 'en'
+        country = 'US'
+    }
     gender = 'male'
     type = 'hsmm'
     description = 'A male US English hidden semi-Markov model voice, built from recordings provided by Carnegie Mellon University'
